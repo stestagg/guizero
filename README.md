@@ -26,4 +26,11 @@
   
   b. Tkinter - always available, but harder to manage under-the-hood
   
-  c. 
+  c. Web - familiar tech, cross-platform, harder to do layouts and events
+  
+---
+
+
+Take a simple color problem:  http://codereview.stackexchange.com/questions/120535/python-colour-game 
+
+What would the python code for this look like?  [see files in repo]
